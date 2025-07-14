@@ -12,7 +12,7 @@ I'm a passionate fullstack developer graduated recently from **ISTA NTIC SYBA**.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Skills
 
 
 <a href="https://www.php.net/docs.php"> <img align="left" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> </a>
