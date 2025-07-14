@@ -35,4 +35,4 @@ I'm a passionate fullstack developer graduated recently from **ISTA NTIC SYBA**.
 
 ## Socials
 
-<a href="https://github.com/Oussamma642"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="visibility: visible; max-width: 100%;"></a>
+<a target="_blank" href="https://www.linkedin.com/in/oussama-ait-mohamed-239402336/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="visibility: visible; max-width: 100%;"></a>
