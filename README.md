@@ -34,7 +34,56 @@ I'm a passionate fullstack developer graduated recently from **ISTA NTIC SYBA**.
 ---
 
 ## 🌐 Socials
+<p align="left" dir="auto">
+  <a href="https://github.com/Oussamma642">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""
+      ><picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="
+            https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
+          "
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="
+            https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
+          "
+        />
+        <img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+          width="32"
+          height="32"
+          style="visibility: visible; max-width: 100%"
+        /> </picture
+    ></themed-picture>
+  </a>
+  <a
+    href="https://www.linkedin.com/in/oussama-ait-mohamed-239402336/"
+    rel="nofollow"
+  >
+    <themed-picture data-catalyst-inline="true" data-catalyst=""
+      ><picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="
+            https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg
+          "
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="
+            https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg
+          "
+        />
+        <img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+          width="32"
+          height="32"
+          style="visibility: visible; max-width: 100%"
+        /> </picture
+    ></themed-picture>
+  </a>
+</p>
 
-<a href="https://github.com/Oussamma642"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="visibility: visible; max-width: 100%;"></a>
 
-<a target="_blank" href="https://www.linkedin.com/in/oussama-ait-mohamed-239402336/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="visibility: visible; max-width: 100%;"></a>
