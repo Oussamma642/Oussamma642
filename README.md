@@ -14,7 +14,7 @@ I'm a passionate fullstack developer graduated recently from **ISTA NTIC SYBA**.
 
 ## 🧰 Tech Stack
 
-<img align="left" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<a href="https://www.php.net/docs.php"> <img align="left" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> </a>
 <img align="left" alt="Laravel" width="40px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
