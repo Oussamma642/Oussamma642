@@ -1,6 +1,6 @@
 # Hi 👋 I am Oussama
 
-## Web Developer 
+## Fullstack Web Developer 
 
 I'm a passionate fullstack developer graduated recently from **ISTA NTIC SYBA**. I enjoy building practical solutions using **Laravel**, **React**, and other modern tools.
 
