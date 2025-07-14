@@ -23,12 +23,12 @@ I'm a passionate fullstack developer graduated recently from **ISTA NTIC SYBA**.
  </a>
  <a href="https://git-scm.com/doc"><img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
  </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-<a href="https://react.dev/"><img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <a href="https://dev.mysql.com/doc/"><img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
 <a href="https://tailwindcss.com/docs/installation/using-vite"> <img align="left" alt="Tailwind CSS" width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+<a href="https://react.dev/"><img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <br><br>
 
 ---
