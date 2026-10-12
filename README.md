@@ -29,7 +29,7 @@ My interests lie at the intersection of **AI, software engineering, and web deve
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,java,html,css" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css" alt="Programming languages" />
 </p>
 
 ### AI & Data Science
