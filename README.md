@@ -29,7 +29,7 @@ My interests lie at the intersection of **AI, software engineering, and web deve
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,c,java,html,css" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,java,html,css" alt="Programming languages" />
 </p>
 
 ### AI & Data Science
@@ -44,7 +44,7 @@ My interests lie at the intersection of **AI, software engineering, and web deve
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,postman,vscode,docker" alt="Databases and development tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,postman,vscode" alt="Databases and development tools" />
 </p>
 
 ---
