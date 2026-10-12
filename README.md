@@ -2,7 +2,7 @@
 
 ## 🎓 Software Engineering Student | AI & Full-Stack Developer
 
-I'm a software engineering student at **ENSET Mohammedia**, specializing in **Software Engineering and Distributed Computer Systems**. With a background in full-stack web development and a bachelor's degree in Artificial Intelligence, I'm passionate about building intelligent, practical, and scalable software solutions.
+I'm a software engineering student at **ENSET Mohammedia**, specializing in **Software Engineering and Distributed Computer Systems**. With a background in **full-stack web development and a bachelor's degree in Artificial Intelligence**, I'm passionate about building intelligent, practical, and scalable software solutions.
 
 My interests lie at the intersection of **AI, software engineering, and web development** — from developing machine learning models and integrating LLMs into applications to designing full-stack systems that solve real-world problems.
 
