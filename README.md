@@ -53,4 +53,4 @@ My interests lie at the intersection of **AI, software engineering, and web deve
 
 - GitHub: [@Oussamma642](https://github.com/Oussamma642)
 - LinkedIn: [Oussama Ait Mohamed](https://www.linkedin.com/in/oussama-ait-mohamed-239402336/)
-- Portfolio: [aitmohamedoussama.vercel.app](https://aitmohamedoussama.vercel.app/)
+- Portfolio: Currently under development
