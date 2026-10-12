@@ -12,7 +12,7 @@ My interests lie at the intersection of **AI, software engineering, and web deve
 - 💻 Building full-stack applications and AI-integrated software solutions
 - 🛠️ Experienced with Laravel, React, Python, and modern development tools
 - 🤝 Open to collaborating on AI, full-stack, and innovative software engineering projects
-- 📂 Portfolio: [aitmohamedoussama.vercel.app](https://aitmohamedoussama.vercel.app/)
+- 📂 Portfolio: Currently under development
 - 📫 Contact: aitmohamedoussama57@gmail.com
 
 ---
@@ -23,8 +23,6 @@ My interests lie at the intersection of **AI, software engineering, and web deve
 - **LLM Applications:** AI-powered applications, LLM integration, and Retrieval-Augmented Generation (RAG)
 - **Software Engineering:** Software architecture, clean code, and scalable application design
 - **Full-Stack Development:** Building web applications, REST APIs, and database-driven systems
-- **Distributed Systems:** Exploring the design and development of distributed software systems
-
 ---
 
 ## 🧰 Tech Stack
